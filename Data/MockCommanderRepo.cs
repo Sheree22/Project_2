@@ -1,11 +1,11 @@
-using Systems.Collections.Generic;
+using System.Collections.Generic;
 using Commander.Models;
 
 namespace Commander.Data
 {
     public class MockCommanderRepo : ICommanderRepo
     {
-        public IEnumarable<Command> GetAppCommands()
+        public IEnumerable<Command> GetAppCommands()
         {
             var commands = new List<Command>
             {
@@ -15,7 +15,7 @@ namespace Commander.Data
             };
 
             return commands;
-        }
+        
         public Command GetCommandById(int id)
         {
             return new Command(Id=0, Age=20);

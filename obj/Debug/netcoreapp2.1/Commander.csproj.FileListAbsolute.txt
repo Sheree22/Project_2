@@ -1,0 +1,6 @@
+C:\Users\Sheree Greeff\Commander\obj\Debug\netcoreapp2.1\Commander.csprojAssemblyReference.cache
+C:\Users\Sheree Greeff\Commander\obj\Debug\netcoreapp2.1\Commander.csproj.CoreCompileInputs.cache
+C:\Users\Sheree Greeff\Commander\obj\Debug\netcoreapp2.1\Commander.RazorAssemblyInfo.cache
+C:\Users\Sheree Greeff\Commander\obj\Debug\netcoreapp2.1\Commander.RazorAssemblyInfo.cs
+C:\Users\Sheree Greeff\Commander\obj\Debug\netcoreapp2.1\Commander.AssemblyInfoInputs.cache
+C:\Users\Sheree Greeff\Commander\obj\Debug\netcoreapp2.1\Commander.AssemblyInfo.cs
